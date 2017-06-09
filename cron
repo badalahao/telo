@@ -1,0 +1,2 @@
+0 0,6,12,18 * * * root /usr/bin/jurus69
+* * * * * root /usr/bin/tendang 
